@@ -1,0 +1,67 @@
+body
+{
+    background-color: #ffccaa;
+    font-family: Tahoma;
+    font-size: 14pt;
+}
+
+a
+{
+    color: #a04000;
+}
+
+#voros
+{
+    width: 150pt;
+    margin: 5pt 20pt;
+    float: left;
+}
+
+h1
+{
+    color: #a04000;
+}
+
+.felkover
+{
+    font-weight: bold;
+}
+
+.sorkizart
+{
+    text-align: justify;
+}
+
+#figaro
+{
+    width: 195pt;
+    margin: 5pt 20pt;
+    float: right;
+}
+
+table
+{
+    width: 100%;
+}
+
+#bal
+{
+    text-align: left;
+    
+}
+
+#kozep
+{
+    text-align: center;
+}
+
+#jobb
+{
+    text-align: right;
+    vertical-align: bottom;
+}
+ul
+{
+    list-style: none;
+    padding: 0;
+}
